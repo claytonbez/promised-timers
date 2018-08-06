@@ -1,0 +1,14 @@
+{
+  "name": "promised-timers",
+  "version": "0.1",
+  "description": "A small collection of NodeJS modules that enables timers with the use of promises",
+  "main": "timings.js",
+  "scripts": {
+    "test": "echo \"Note: no test specified\" && exit 1"
+  },
+  "author": "Clayton Bezuidenhout",
+  "license": "MIT",
+  "dependencies": {
+
+  }
+}
